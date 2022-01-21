@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm 颠倒空格（diandaokongge).
+**I'm 颠倒空格（diandaokongge).**
 
-* 📖 My blog:**https://diandaokongge.github.io/**
+What is "颠倒空格" ? That's a special character that reverses the text behind it, so it names 颠倒空格. I won't give you "颠倒空格".   
 * 📫 My e-mail: **diandaokongge@outlook.com or diandaokongge@gmail.com**
 * 🔭 I’m currently working on ... ❌nothing❌
 * 🌱 I’m currently learning ... ❌nothing❌
