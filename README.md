@@ -2,7 +2,7 @@
 
 I'm 颠倒空格（diandaokongge).
 
-* 📖 My blog:** (https://diandaokongge.github.io/)[https://diandaokongge.github.io/]  **
+* 📖 My blog:** https://diandaokongge.github.io/ **
 * 📫 My e-mail: **diandaokongge@outlook.com or diandaokongge@gmail.com**
 * 🔭 I’m currently working on ... ❌nothing❌
 * 🌱 I’m currently learning ... ❌nothing❌
