@@ -3,11 +3,12 @@
 **I'm 颠倒空格（diandaokongge).**
 
 What is "颠倒空格" ? That's a special character that reverses the text behind it, so it names 颠倒空格. I won't give you "颠倒空格".   
+* 🌎 My website is [🔗https://diandaokongge.github.io/](https://diandaokongge.github.io/)  ![](https://img.shields.io/badge/颠倒空格-官网-d) ![](https://img.shields.io/badge/官方认证-网站-blue)
 * 📫 My e-mail: **diandaokongge@outlook.com or diandaokongge@gmail.com**
 * 🔭 I’m currently working on ... ❌nothing❌
 * 🌱 I’m currently learning ... ❌nothing❌
 * 👯 I’m looking to collaborate on ... ❌nothing❌
-* 🤔 I’m looking for help with ... ❌nothing❌
+* 🤔 I’m looking for help with “Made my GitHub pages in the browser with the logo appearing on the tab.”
 * 💬 Ask me about ... ❌nothing❌
 * 😄 Pronouns: ❌nothing❌
 * ⚡ Fun fact: ❌nothing❌
