@@ -8,7 +8,7 @@ What is "颠倒空格" ? That's a special character that reverses the text behin
 * 🔭 I’m currently working on ... ❌nothing❌
 * 🌱 I’m currently learning ... ❌nothing❌
 * 👯 I’m looking to collaborate on ... ❌nothing❌
-* 🤔 I’m looking for help with “Made my GitHub pages in the browser with the logo appearing on the tab.”
+* 🤔 I’m looking for help with ... ❌nothing❌
 * 💬 Ask me about ... ❌nothing❌
 * 😄 Pronouns: ❌nothing❌
 * ⚡ Fun fact: ❌nothing❌
